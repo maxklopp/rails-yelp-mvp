@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  contenet: MyText
+  taring: 1
+  restaurant: MyString
+
+two:
+  contenet: MyText
+  taring: 1
+  restaurant: MyString
